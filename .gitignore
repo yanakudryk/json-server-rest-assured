@@ -1,0 +1,12 @@
+.idea
+.idea/*
+.idea/libraries
+.idea/.name
+.idea/workspace.xml
+/.idea/workspace.xml
+target/
+*.log
+*.iml
+*.ipr
+*.iws
+.allure
